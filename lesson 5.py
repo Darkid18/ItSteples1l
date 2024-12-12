@@ -35,7 +35,7 @@
 # print(type(first_f))
 # print(type(number))
 # print(type(string))
-#
+
 # print(dir(string))
 # print(dir(inspect))
 

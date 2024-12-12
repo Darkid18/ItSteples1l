@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37b39c20-77a3-4ca1-ae89-48235387ba1a" name="Changes" comment="XD">
-      <change afterPath="$PROJECT_DIR$/lesson 5.py" afterDir="false" />
+    <list default="true" id="37b39c20-77a3-4ca1-ae89-48235387ba1a" name="Changes" comment="Інші уроки в файлі Main">
+      <change afterPath="$PROJECT_DIR$/Lesson 6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,24 +48,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.lesson 5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/AppData/Local/Programs/Python/Python313/python.exe&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lesson 6.executor": "Run",
+    "Python.lesson 5.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/user/AppData/Local/Programs/Python/Python313/python.exe",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.lesson 5">
+}]]></component>
+  <component name="RunManager" selected="Python.Lesson 6">
+    <configuration name="Lesson 6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ItSteples1l" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson 6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="lesson 5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ItSteples1l" />
       <option name="ENV_FILES" value="" />
@@ -113,6 +138,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lesson 6" />
         <item itemvalue="Python.lesson 5" />
       </list>
     </recent_temporary>
@@ -142,6 +168,8 @@
       <workItem from="1733757703127" duration="2901000" />
       <workItem from="1733839314564" duration="979000" />
       <workItem from="1733840303023" duration="5631000" />
+      <workItem from="1733937905766" duration="446000" />
+      <workItem from="1734013822202" duration="4807000" />
     </task>
     <task id="LOCAL-00001" summary="Додали гітігнор">
       <option name="closed" value="true" />
@@ -167,7 +195,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733841397051</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Інші уроки в файлі Main">
+      <option name="closed" value="true" />
+      <created>1733937952571</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733937952571</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Інші уроки в файлі Main">
+      <option name="closed" value="true" />
+      <created>1733938209689</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733938209689</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,10 +221,12 @@
     <MESSAGE value="Додали гітігнор" />
     <MESSAGE value="..." />
     <MESSAGE value="XD" />
-    <option name="LAST_COMMIT_MESSAGE" value="XD" />
+    <MESSAGE value="Інші уроки в файлі Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Інші уроки в файлі Main" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ItSteples1l$lesson_5.coverage" NAME="lesson 5 Coverage Results" MODIFIED="1733845065392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ItSteples1l$lesson_5.coverage" NAME="lesson 5 Coverage Results" MODIFIED="1734014831172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ItSteples1l$Lesson_6.coverage" NAME="Lesson 6 Coverage Results" MODIFIED="1734018423162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ItSteples1l$main.coverage" NAME="main Coverage Results" MODIFIED="1733842248771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
