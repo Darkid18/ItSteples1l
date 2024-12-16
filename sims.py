@@ -1,7 +1,7 @@
 import random
 
 class Human:
-    def __init__(self, name="Human",job = none,home = none, car = none):
+    def __init__(self, name="Human",job = none, home = none, car = none):
         self.name = name
         self.money = 100
         self.gladness = 50
