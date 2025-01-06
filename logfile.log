@@ -1,0 +1,5 @@
+2024-12-19 17:19:48,137 - DEBUG - debug
+2024-12-19 17:19:48,137 - INFO - Program works very well user...
+2024-12-19 17:19:48,137 - WARNING - warning
+2024-12-19 17:19:48,137 - ERROR - Ooops! There is an error in this program user
+2024-12-19 17:19:48,137 - CRITICAL - critical
