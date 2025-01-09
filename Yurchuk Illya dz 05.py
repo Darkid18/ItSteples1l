@@ -1,7 +1,5 @@
 import colorama
 
-import inspect
-
-inspct = inspect(colorama)
+import ins
 
 
