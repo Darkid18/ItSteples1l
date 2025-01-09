@@ -84,27 +84,27 @@
 
 # lesson 4
 #
-# class Human:
-#     height = 170
+class Human:
+    # height = 170
 
-#     def __init__(self):
-#         self.height = 150
+    def __init__(self):
+        self.height = 150
 
-# class Student(Human):
-#     def __init__(self):
-#         print(self.height)
+class Student(Human):
+    def __init__(self):
+        # print(self.height)
 
-#         super().__init__()
-#         print(self.height)
-#         print(super().height)
-# class Worker(Human):
-#     pass
+        super().__init__()
+        # print(self.height)
+        # print(super().height)
+class Worker(Human):
+    pass
 
-# nick = Student()
-# ann = Worker()
+nick = Student()
+ann = Worker()
 
-# print(nick.height)
-# print(ann.height)
+print(nick.height)
+print(ann.height)
 #
 #
 # class Shape:
