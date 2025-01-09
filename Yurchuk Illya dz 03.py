@@ -27,8 +27,8 @@ list_of_guns = {
 class guns:
     def __init__(self, gun_list):
         self.gun_list = random.choice(list(list_of_guns))
-        self.damage = gun_list[self.gun]["damage"]
-        self.alt_fire_damage = gun_list[self.gun]["alt_fire_damage"]
-        self.fire_cd = gun_list[self.gun]["fire_cd"]
-        self.alt_fire_cooldown = gun_list[self.gun]["alt_fire_cooldown"]
+        self.damage = gun_list[self]["damage"]
+        self.alt_fire_damage = gun_list[self]["alt_fire_damage"]
+        self.fire_cd = gun_list[self]["fire_cd"]
+        self.alt_fire_cooldown = gun_list[self]["alt_fire_cooldown"]
 
