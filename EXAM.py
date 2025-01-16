@@ -48,4 +48,7 @@ while True:
             search_word_count = response_text.lower().count(user_search.lower())
             result.append((site_url, search_word_count))
             most_result = max(result, key=lambda x: x[1])
-        print("The site with most amount of your search:    ", most_result)
+        if most_result or result == 0:
+            print("No results found")
+        else:
+            print("The site with most amount of your search:    ", most_result)
