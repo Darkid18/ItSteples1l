@@ -99,7 +99,7 @@ class Calculator:
                 return even_number
         raise StopIteration
 
-iteration = Calculator(10)
+iteration = Calculator(100)
 
 for num in iteration:
     print(num)

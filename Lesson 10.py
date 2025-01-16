@@ -6,8 +6,8 @@ cur = connection.cursor()
 # cur.execute("CREATE TABLE first_table (name TEXT);")
 # connection.commit()
 
-# cur.execute("INSERT INTO first_table (name) VALUES ('ivan');")
-# connection.commit()
+cur.execute("INSERT INTO first_table (name) VALUES ('ivan');")
+connection.commit()
 
 cur.execute("SELECT rowid, name FROM first_table;")
 connection.commit()

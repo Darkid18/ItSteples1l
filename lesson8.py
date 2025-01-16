@@ -1,8 +1,8 @@
-# import logging
+import logging
 #
-# logging.basicConfig(level=logging.DEBUG, filename='logfile.log', filemode='w', format='%(asctime)s - %(levelname)s - %(message)s')
-# logging.debug("debug")
-# logging.info("Program works very well user...")
+logging.basicConfig(level=logging.DEBUG, filename='logfile.log', filemode='w', format='%(asctime)s - %(levelname)s - %(message)s')
+logging.debug("debug")
+logging.info("Program works very well user...1")
 # logging.warning("warning")
 # logging.error("Ooops! There is an error in this program user")
 # logging.critical("critical")
