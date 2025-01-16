@@ -38,7 +38,7 @@ while True:
 
 
     if user_search == "/help":
-        print("System version = 1.0\nCreated by C0nn0R\nSpecial thanks to ItStep\nVersion : RELEASE 1.0\nLast time updated : None\nContacts : 0123123123\nList of games in our database:\nUltrakill\nOmori\nLibraries used: requests, sqlite3\nPlans for future:\n1.User's websites\n2.Make bigger database")
+        print("System version = 1.0\nCreated by C0nn0R\nSpecial thanks to ItStep\nVersion : RELEASE 1.0\nLast time updated : None\nContacts : 0123123123\nList of games in our database:\nUltrakill\nOmori\nHalf-Life\nLibraries used: requests, sqlite3\nPlans for future:\n1.User's websites\n2.Make bigger database")
 
     else:
         for site in res:
