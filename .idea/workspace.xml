@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37b39c20-77a3-4ca1-ae89-48235387ba1a" name="Changes" comment="...">
-      <change afterPath="$PROJECT_DIR$/Yurhuck Illya weather.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data&amp;temperature_DB.sl3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather_DB.sl3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXAM.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAM.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -412,7 +408,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737051733097</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="...">
+      <option name="closed" value="true" />
+      <created>1737055264184</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1737055264184</updated>
+    </task>
+    <task id="LOCAL-00020" summary="...">
+      <option name="closed" value="true" />
+      <created>1737055478198</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1737055478198</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

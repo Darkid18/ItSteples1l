@@ -1,5 +1,4 @@
 import requests
-# from bs4 import BeautifulSoup
 import sqlite3
 
 print("Welcome to 'Gameinfo search' system!\nOn this search system you can find information about something in games!\nType [/help] for more information!")
